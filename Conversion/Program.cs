@@ -1,6 +1,4 @@
-﻿//using System.Globalization;
-
-//EXPLICIT CONVERSION :means converting larger datatypes into smaller datatypes
+﻿//EXPLICIT CONVERSION :means converting larger datatypes into smaller datatypes
 //How to convert float to int
 /*namespace Datatypes
 {
@@ -54,6 +52,7 @@
     }
 }*/
 // HOW TO GET INPUT FROM THE USER
+using System.Globalization;
 using System.Reflection.Metadata.Ecma335;
 using System.Transactions;
 
