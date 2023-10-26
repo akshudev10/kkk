@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\bin\Debug\net6.0\Console Method.exe
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\bin\Debug\net6.0\Console Method.deps.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\bin\Debug\net6.0\Console Method.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\bin\Debug\net6.0\Console Method.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\bin\Debug\net6.0\Console Method.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\Console Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\Console Method.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\Console Method.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\Console Method.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\Console Method.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\refint\Console Method.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\Console Method.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\Console Method.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Console Method\obj\Debug\net6.0\ref\Console Method.dll
