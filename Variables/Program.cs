@@ -10,7 +10,7 @@
 //2] REFERENCE TYPE : means uses the indexing method & it helps to refer the value in the variable name 
 //i) String
 //ii) Array & Alass
-/*namespace Datatypes
+/*amespace Datatypes
 {
     class Program
     {
@@ -22,9 +22,9 @@
             Console.WriteLine(a);
         }
     }
-}*/
+}
 //how to add two values 
-/*namespace Datatypes
+namespace Datatypes
 {
     class Program
     {
@@ -36,9 +36,9 @@
             Console.WriteLine(c);
         }
     }
-}*/
+}
 // FLOAT
-/*namespace Datatypes
+namespace Datatypes
 {
     class Program
     {
@@ -50,7 +50,7 @@
             Console.WriteLine(num3);
         }
     }
-}*/
+}
 //LONG
 // We use long datatype for identifying the size of the datatypes
 // for int = 4 bytes
@@ -60,7 +60,7 @@
 // integer datatype only can store 4bytes of the data  but if we use "long" we can store upto 8 bytes of the data
 // we are changing "int" to "long" becoz "int" has low storage capacity
 
-/*namespace Datatypes
+namespace Datatypes
 {
     class Program
     {
@@ -77,7 +77,7 @@
 // whta is the difference  between double & float?
 // float only gives the "approximate or limited values" as it has only limited memory storage capacity of 4 bytes.
 // double can give larger number values as it has the memory storage capacity of 8 bytes.
-/*namespace Datatypes
+namespace Datatypes
 {
     class Program
     {
@@ -91,4 +91,4 @@
 
 
     }
-}*/
+}
