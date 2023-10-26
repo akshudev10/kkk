@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\bin\Debug\net6.0\String Operations.exe
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\bin\Debug\net6.0\String Operations.deps.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\bin\Debug\net6.0\String Operations.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\bin\Debug\net6.0\String Operations.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\bin\Debug\net6.0\String Operations.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\String Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\String Operations.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\String Operations.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\String Operations.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\String Operations.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\refint\String Operations.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\String Operations.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\String Operations.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Operations\obj\Debug\net6.0\ref\String Operations.dll
