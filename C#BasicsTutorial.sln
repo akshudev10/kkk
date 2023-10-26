@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datatypes", "Datatypes\Data
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo", "Demo\Demo.csproj", "{226B0674-7A02-4667-9A72-722BB713C6AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{E417C338-6537-49A4-B23F-8A9DBD2C16B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{E417C338-6537-49A4-B23F-8A9DBD2C16B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion", "Conversion\Conversion.csproj", "{30871901-801C-4C4A-AD0E-FFCB405FBE66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversion", "Conversion\Conversion.csproj", "{30871901-801C-4C4A-AD0E-FFCB405FBE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String types", "String types\String types.csproj", "{97392ACC-E577-4D92-9488-2320D7140E3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{30871901-801C-4C4A-AD0E-FFCB405FBE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30871901-801C-4C4A-AD0E-FFCB405FBE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30871901-801C-4C4A-AD0E-FFCB405FBE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97392ACC-E577-4D92-9488-2320D7140E3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97392ACC-E577-4D92-9488-2320D7140E3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97392ACC-E577-4D92-9488-2320D7140E3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97392ACC-E577-4D92-9488-2320D7140E3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

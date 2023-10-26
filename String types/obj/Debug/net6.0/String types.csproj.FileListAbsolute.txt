@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\bin\Debug\net6.0\String types.exe
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\bin\Debug\net6.0\String types.deps.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\bin\Debug\net6.0\String types.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\bin\Debug\net6.0\String types.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\bin\Debug\net6.0\String types.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\String types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\String types.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\String types.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\String types.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\String types.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\refint\String types.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\String types.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\String types.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String types\obj\Debug\net6.0\ref\String types.dll
