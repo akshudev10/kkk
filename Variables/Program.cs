@@ -69,10 +69,12 @@ namespace Datatypes
             long a = 12345678;
             long b = 87654321;
             long c = a + b;
+            long d = a - b;
             Console.WriteLine(c);
         }
     }
 }
+
 // DOUBLE
 // whta is the difference  between double & float?
 // float only gives the "approximate or limited values" as it has only limited memory storage capacity of 4 bytes.
