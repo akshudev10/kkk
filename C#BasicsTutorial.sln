@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Operations", "String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Method", "Console Method\Console Method.csproj", "{A38637DD-4860-4AD1-9071-314CA47E3A32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods Functions", "Methods Functions\Methods Functions.csproj", "{F1BF48D6-F460-409D-9409-0F4C75A9CBE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A38637DD-4860-4AD1-9071-314CA47E3A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A38637DD-4860-4AD1-9071-314CA47E3A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A38637DD-4860-4AD1-9071-314CA47E3A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BF48D6-F460-409D-9409-0F4C75A9CBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BF48D6-F460-409D-9409-0F4C75A9CBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BF48D6-F460-409D-9409-0F4C75A9CBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BF48D6-F460-409D-9409-0F4C75A9CBE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

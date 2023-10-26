@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\bin\Debug\net6.0\Methods Functions.exe
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\bin\Debug\net6.0\Methods Functions.deps.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\bin\Debug\net6.0\Methods Functions.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\bin\Debug\net6.0\Methods Functions.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\bin\Debug\net6.0\Methods Functions.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\Methods Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\Methods Functions.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\Methods Functions.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\Methods Functions.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\Methods Functions.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\refint\Methods Functions.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\Methods Functions.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\Methods Functions.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\Methods Functions\obj\Debug\net6.0\ref\Methods Functions.dll
