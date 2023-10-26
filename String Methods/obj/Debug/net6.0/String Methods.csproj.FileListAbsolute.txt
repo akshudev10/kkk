@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\bin\Debug\net6.0\String Methods.exe
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\bin\Debug\net6.0\String Methods.deps.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\bin\Debug\net6.0\String Methods.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\bin\Debug\net6.0\String Methods.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\bin\Debug\net6.0\String Methods.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\String Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\String Methods.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\String Methods.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\String Methods.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\String Methods.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\refint\String Methods.dll
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\String Methods.pdb
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\String Methods.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C#BasicsTutorial\String Methods\obj\Debug\net6.0\ref\String Methods.dll
