@@ -71,6 +71,7 @@ namespace Datatypes
             long c = a + b;
             long d = a - b;
             Console.WriteLine(c);
+            Console.WriteLine(d);
         }
     }
 }
