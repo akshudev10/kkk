@@ -113,7 +113,20 @@
     }
 }*/
 // NESTED IF:
-namespace Datatypes
+//syntax: if(condition1)
+//        {
+//         if (condition2)
+//        {    // execute code when condition1 and condition2 are true. ...
+
+//         else if (condition3)
+//        {
+//          if (condition4)
+//        {     // execute code when condition3 and condition4 are true. ...
+//        else
+//        {       // execute code when condition3 is true. ...
+//        else
+//        {      // execute code when conditions1 is false.
+/*namespace Datatypes
 {
     class Program
     {
@@ -122,11 +135,42 @@ namespace Datatypes
             //consoles output will be in string form if we want to change we should use type conversion
             // here type conversion is done from string to int 
             Console.WriteLine("Enter the age");
-            // If we give a "variable" in the output it cannot convert the variable to int
-            // How to avoid such kind of conditions?
-            string agestring =Console.ReadLine();
+            string agestring = Console.ReadLine();
             int age = Int32.Parse(agestring);
             Console.WriteLine(age);
+        }
+    }
+}*/
+// converting "char or alphabets" into "int" using type conversion method 
+// when the output is displayed as"enter the age" & if we enter a "char" as "a" how it can be converted into "int"
+// this will help in " not crashing the system"
+using System.ComponentModel.Design;
+namespace Datatypes
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            Console.WriteLine("Enter the age");
+            string agestring = Console.ReadLine();
+            int age;
+    // syntax for try parse: inside the bracket(input value, out ......)
+    // in case the given conversion  got success "out" helps to store the value 
+            bool result = int.TryParse(agestring, out age);
+           // giving with the condition
+             if (age > 10)
+            { 
+                Console.WriteLine("enter the mall");
+                Console.WriteLine("shopping allowed");
+            }
+            else
+            {
+                Console.WriteLine(" permission denied");
+            }
+            
+        
+
         }
     }
 }
