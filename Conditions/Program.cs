@@ -1,6 +1,6 @@
 ﻿//Decision Making
 // It has 5 methods i)if ii)if else iii)else if iv)nested if v)switch statement
-// syntax: if()
+// syntax: if(condition)
 //          {
 //             statement
 //           }
@@ -22,7 +22,16 @@
     }
 }*/
 
-// IF ELSE CONDITION: in this condition it can check more than one condition or only two conditions
+// ii) IF ELSE CONDITION: in this condition it can check more than one condition or only two conditions
+//if else condition ids also called as ternary operator
+//syntax: if(condition)
+//        {
+//          true statement
+//        }
+//       else
+//        {
+//          false statement
+//        }
 /*namespace Datatypes
 {
     class Program
@@ -64,7 +73,19 @@
         }
     }
 }*/
-//iii) ELSE IF:
+//iii) ELSE IF: means checking more than one condition
+// syntax: if(condition1)
+//          {
+//            condition 1 true statement
+//           }
+//          else if(condition2)
+//          {
+//            condition 2 true statement
+//          }
+//          else
+//          {
+//              false statement
+//          }
 /*namespace Datatypes
 {
     class Program
