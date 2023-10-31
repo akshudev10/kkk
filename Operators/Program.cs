@@ -101,7 +101,7 @@
     }
 }*/
 //TERNARY OPERATOR
-//syntax: condition? true : false
+//syntax: condition? true : false & it is also called as "else if" condition
 namespace Datatypes
 {
     class Program

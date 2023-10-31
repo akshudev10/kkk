@@ -9,17 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Vari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversion", "Conversion\Conversion.csproj", "{30871901-801C-4C4A-AD0E-FFCB405FBE66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String types", "String types\String types.csproj", "{97392ACC-E577-4D92-9488-2320D7140E3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String types", "String types\String types.csproj", "{97392ACC-E577-4D92-9488-2320D7140E3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Methods", "String Methods\String Methods.csproj", "{DA9F56B5-44F6-4444-9F6F-091FCCA04EB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Methods", "String Methods\String Methods.csproj", "{DA9F56B5-44F6-4444-9F6F-091FCCA04EB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Operations", "String Operations\String Operations.csproj", "{852F7F6E-7746-46FE-B2D2-0FAA4CD09920}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Operations", "String Operations\String Operations.csproj", "{852F7F6E-7746-46FE-B2D2-0FAA4CD09920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Method", "Console Method\Console Method.csproj", "{A38637DD-4860-4AD1-9071-314CA47E3A32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Method", "Console Method\Console Method.csproj", "{A38637DD-4860-4AD1-9071-314CA47E3A32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods Functions", "Methods Functions\Methods Functions.csproj", "{F1BF48D6-F460-409D-9409-0F4C75A9CBE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods Functions", "Methods Functions\Methods Functions.csproj", "{F1BF48D6-F460-409D-9409-0F4C75A9CBE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{34759C22-96A5-46CC-88B9-DD933E872C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{34759C22-96A5-46CC-88B9-DD933E872C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditions", "Conditions\Conditions.csproj", "{0425F1C8-ACE2-4EB3-B688-54D24913347C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{34759C22-96A5-46CC-88B9-DD933E872C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34759C22-96A5-46CC-88B9-DD933E872C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34759C22-96A5-46CC-88B9-DD933E872C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0425F1C8-ACE2-4EB3-B688-54D24913347C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0425F1C8-ACE2-4EB3-B688-54D24913347C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0425F1C8-ACE2-4EB3-B688-54D24913347C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0425F1C8-ACE2-4EB3-B688-54D24913347C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
